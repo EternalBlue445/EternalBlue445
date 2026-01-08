@@ -34,9 +34,3 @@ RAG system for document Q&A using FastAPI, Gemini API and Chroma Vector DB. Cont
 ### [DayMate](https://daymate-s7gj.onrender.com/)
 Daily planner with AI recommendations, real-time weather and news feeds. Full-stack React + Django application.
 
-## 👥 Let's Connect
-
-I'm always up for interesting challenges and collaboration. Feel free to explore my repositories or reach out.
-
-📧 [adityadey445@gmail.com](mailto:adityadey445@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/adityadey445/)  
