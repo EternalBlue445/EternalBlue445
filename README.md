@@ -10,12 +10,12 @@ I am a developer who thrives on building projects from scratch and solving probl
 
 ## 🛠️ Tech Stack
 
-**Languages**: Python, C++, JavaScript, SQL  
-**Frontend**: React  
-**Backend**: Django, FastAPI  
-**Databases**: PostgreSQL, MySQL, Redis  
-**DevOps**: Docker, AWS, CI/CD (GitHub Actions)  
-**Tools**: Kafka, WebSockets, TensorFlow, Selenium
+-  **Languages**: Python, C++, JavaScript, SQL  
+-  **Frontend**: React  
+-  **Backend**: Django, FastAPI  
+-  **Databases**: PostgreSQL, MySQL, Redis  
+-  **DevOps**: Docker, AWS, CI/CD (GitHub Actions)  
+-  **Tools**: Kafka, WebSockets, TensorFlow, Selenium
 
 ## 🔥 Featured Projects
 
