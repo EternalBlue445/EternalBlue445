@@ -10,7 +10,7 @@ I am a developer who thrives on building projects from scratch and solving probl
 
 ## 🛠️ Tech Stack
 
--  **Languages**: Python, C++, JavaScript, SQL  
+-  **Languages**: Python, C++, JavaScript, Java, SQL  
 -  **Frontend**: React  
 -  **Backend**: Django, FastAPI  
 -  **Databases**: PostgreSQL, MySQL, Redis  
