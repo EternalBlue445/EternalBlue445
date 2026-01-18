@@ -3,7 +3,7 @@ I am a developer who thrives on building projects from scratch and solving probl
 
 ## What I Build
 - 🎨 **Frontend**: React
-- 🔧 **Backend Systems**: Django, FastAPI, REST API
+- 🔧 **Backend Systems**: Django + REST API, FastAP
 - 💻 **Desktop Applications**: Qt C++ (cross-platform)
 - 🤖 **AI-Powered Tools**: RAG systems, AI integrations, automation
 - ⚡ **Real-time Systems**: WebSockets, Kafka, Redis
