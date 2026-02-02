@@ -3,15 +3,15 @@ I am a developer who thrives on building projects from scratch and solving probl
 
 ## What I Build
 - 🎨 **Frontend**: React
-- 🔧 **Backend Systems**: Django + REST API, FastAP
+- 🔧 **Backend Systems**: Django + REST API, FastAPI
 - 💻 **Desktop Applications**: Qt C++ (cross-platform)
 - 🤖 **AI-Powered Tools**: RAG systems, AI integrations, automation
 - ⚡ **Real-time Systems**: WebSockets, Kafka, Redis
 
 ## 🛠️ Tech Stack
 
--  **Languages**: Python, C++, JavaScript, Java, SQL  
--  **Frontend**: React  
+-  **Languages**: Python, C++, Java
+-  **Frontend**: React
 -  **Backend**: Django, FastAPI  
 -  **Databases**: PostgreSQL, MySQL, Redis  
 -  **DevOps**: Docker, AWS, CI/CD (GitHub Actions)  
@@ -28,7 +28,7 @@ AI-powered fashion recommendations using custom CNN (97.1% accuracy). Scraped 15
 ### [Overlay](https://github.com/EternalBlue445/Overlay)
 Scalable chat system handling thousands of concurrent WebSocket connections. Built with Kafka, Redis pub/sub and PostgreSQL.
 
-### [GenAI](https://github.com/EternalBlue445/GenAI)
+### [QDocs](https://github.com/EternalBlue445/GenAI)
 RAG system for document Q&A using FastAPI, Gemini API and Chroma Vector DB. Context-aware answers from your documents.
 
 ### [DayMate](https://daymate-s7gj.onrender.com/)
