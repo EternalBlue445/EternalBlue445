@@ -9,8 +9,8 @@ I thrive solving problems across multiple domains. Having worked on backend syst
 - ⚡ **Real-time Systems**: WebSockets, Kafka, Redis
 
 ## 🛠️ Tech Stack
-- **Programming Languages:** C++, Python, Java, JavaScript
-- **Web Development:** React, Django, FastAPI, HTML/CSS
+- **Programming Languages:** C++, Python, Java
+- **Web Development:** React, Django, FastAPI, HTML/CSS/Js, Bootstrap
 - **Database Technologies:** PostgreSQL, MySQL, Redis
 - **Cloud & DevOps:** AWS (EC2), Docker, GitHub Actions
 - **Data Science & Automation:** TensorFlow, NumPy, Pandas, Selenium, BeautifulSoup
