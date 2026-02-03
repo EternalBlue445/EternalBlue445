@@ -9,18 +9,18 @@ I am a developer who thrives on building projects from scratch and solving probl
 - ⚡ **Real-time Systems**: WebSockets, Kafka, Redis
 
 ## 🛠️ Tech Stack
+- **Programming Languages:** C++, Python, Java, JavaScript
+- **Web Development:** React, Django, FastAPI, HTML/CSS
+- **Database Technologies:** PostgreSQL, MySQL, Redis
+- **Cloud & DevOps:** AWS (EC2), Docker, GitHub Actions
+- **Data Science & Automation:** TensorFlow, NumPy, Pandas, Selenium, BeautifulSoup
+- **Tools & Technologies:** Kafka, WebSockets, n8n, Jira
 
--  **Languages**: Python, C++, Java
--  **Frontend**: React
--  **Backend**: Django, FastAPI  
--  **Databases**: PostgreSQL, MySQL, Redis  
--  **DevOps**: Docker, AWS, CI/CD (GitHub Actions)  
--  **Tools**: Kafka, WebSockets, TensorFlow, Selenium
 
 ## 🔥 Featured Projects
 
 ### [Volcano](https://github.com/EternalBlue445/Volcano)
-Lightning-fast file search tool built with C++ and Qt. 10x faster than Windows default search with real-time monitoring.
+Lightning-fast file search tool built with C++ and Qt. Quite faster than Windows default search with real-time monitoring.
 
 ### [Fashion Recommender System](https://github.com/EternalBlue445/Fashion-Recommender-System)
 AI-powered fashion recommendations using custom CNN (97.1% accuracy). Scraped 150 items, generated 22,500 similarity pairs which became my training dataset.
