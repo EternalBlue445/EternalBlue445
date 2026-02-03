@@ -1,5 +1,5 @@
 # Hi 👋
-I am a developer who thrives on building projects from scratch and solving problems across multiple domains. My technical versatility allows me to work comfortably with backend systems (Django, FastAPI), desktop applications (Qt C++) and AI-powered tools. I test software with extreme inputs to catch edge cases before they become problems. I contribute to open-source projects and focus on writing code that doesnt break when things get tough.
+I thrive solving problems across multiple domains. Having worked on backend systems, desktop applications, cybersecurity and AI tools, I bring technical versatility. I contribute to open-source projects and focus on writing code that doesn't break when things get tough.
 
 ## What I Build
 - 🎨 **Frontend**: React
