@@ -14,6 +14,7 @@ I thrive solving problems across multiple domains. Having worked on backend syst
 - **Database Technologies:** PostgreSQL, MySQL, Redis
 - **Cloud & DevOps:** AWS (EC2), Docker, GitHub Actions
 - **Data Science & Automation:** TensorFlow, NumPy, Pandas, Selenium, BeautifulSoup
+- **Security Testing:** Metasploit, Nmap, JMeter, Burp Suite \\[4pt]
 - **Tools & Technologies:** Kafka, WebSockets, n8n
 
 
