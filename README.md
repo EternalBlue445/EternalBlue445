@@ -1,14 +1,14 @@
-# Hi 👋
+# Hi 
 I thrive solving problems across multiple domains. Having worked on backend systems, desktop applications, cybersecurity and AI tools, I bring technical versatility. I contribute to open-source projects and focus on writing code that doesn't break when things get tough.
 
 ## What I Build
-- 🎨 **Frontend**: React
-- 🔧 **Backend Systems**: Django + REST API, FastAPI
-- 💻 **Desktop Applications**: Qt C++ (cross-platform)
-- 🤖 **AI-Powered Tools**: RAG systems, AI integrations, automation
-- ⚡ **Real-time Systems**: WebSockets, Kafka, Redis
+- **Frontend**: React
+- **Backend Systems**: Django + REST API, FastAPI
+- **Desktop Applications**: Qt C++ (cross-platform)
+- **AI-Powered Tools**: RAG systems, AI integrations, automation
+- **Real-time Systems**: WebSockets, Kafka, Redis
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Programming Languages:** C++, Python, Java
 - **Web Development:** React, Django, FastAPI, HTML/CSS/Js, Bootstrap
 - **Database Technologies:** PostgreSQL, MySQL, Redis
@@ -18,7 +18,7 @@ I thrive solving problems across multiple domains. Having worked on backend syst
 - **Tools & Technologies:** Kafka, WebSockets, n8n
 
 
-## 🔥 Featured Projects
+## Featured Projects
 
 ### [Volcano](https://github.com/EternalBlue445/Volcano)
 Lightning-fast file search tool built with C++ and Qt. Quite faster than Windows default search with real-time monitoring.
