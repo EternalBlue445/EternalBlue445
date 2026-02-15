@@ -5,13 +5,13 @@ I thrive solving problems across multiple domains. Having worked on backend syst
 - **Frontend**: React
 - **Backend Systems**: Django + REST API, FastAPI
 - **Desktop Applications**: Qt C++ (cross-platform)
-- **AI-Powered Tools**: RAG systems, AI integrations, automation
+- **AI-Powered Tools**: RAG systems, AI integrations, Automation
 
 ## Tech Stack
-- **Programming Languages:** C++, Python, Java
-- **Web Development:** React, Django, FastAPI, HTML/CSS/Js, Bootstrap
+- **Programming Languages:** Python, C/C++, Java
+- **Web Development:** React, Django, FastAPI, HTML/CSS/JS
 - **Database Technologies:** PostgreSQL, MySQL, Redis
 - **Cloud & DevOps:** AWS (EC2), Docker, GitHub Actions
 - **Data Science & Automation:** TensorFlow, NumPy, Pandas, Selenium, BeautifulSoup
-- **Security Testing:** Metasploit, Nmap, JMeter, Burp Suite
+- **Security Testing:** Metasploit, Nmap, JMeter, FakeNet, Wireshark, Burp Suite
 - **Tools & Technologies:** Kafka, WebSockets, n8n
