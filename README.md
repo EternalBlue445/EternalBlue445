@@ -6,7 +6,6 @@ I thrive solving problems across multiple domains. Having worked on backend syst
 - **Backend Systems**: Django + REST API, FastAPI
 - **Desktop Applications**: Qt C++ (cross-platform)
 - **AI-Powered Tools**: RAG systems, AI integrations, automation
-- **Real-time Systems**: WebSockets, Kafka, Redis
 
 ## Tech Stack
 - **Programming Languages:** C++, Python, Java
