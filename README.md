@@ -4,5 +4,3 @@ I thrive solving problems across multiple domains. Having worked on backend syst
 - C++/Qt , Python/Django,FastAPI , Java/Spring
 - Cybersecurity/Pen Testing
 - Agentic AI
-
-That's it
